@@ -1,0 +1,18 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages        #
+###################
+# Its better to unpack these files and commit the new source
+#git has its own built in compression methods
+*.7z
+*.dmg
+*.iso
+*.zip
+
